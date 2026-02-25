@@ -1,0 +1,8 @@
+.claude
+trakt_cli.egg-info/
+__pycache__/
+*.pyc
+dist/
+build/
+.venv/
+.DS_Store
