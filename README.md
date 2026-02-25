@@ -62,7 +62,7 @@ Run `trakt --help` or `trakt <command> --help` for full options. See [`reference
 
 ## Installing as a Skill
 
-This repo is designed to work as an **[OpenClaw](https://docs.openclaw.ai/tools/skills)** skill. Once installed, Claude will automatically use the `trakt` CLI to answer Trakt.tv questions.
+This repo is designed to work as an **[OpenClaw](https://docs.openclaw.ai/tools/skills)** skill. Once installed, OpenClaw will automatically use the `trakt` CLI to answer Trakt.tv questions.
 
 It is also compatible with **Claude Code** skills.
 
